@@ -17,7 +17,7 @@
         <java.version>17</java.version>
         <spring-cloud.version>2021.0.5</spring-cloud.version>
 
-        <functionResourceGroup>DefaultResourceGroup-EUS</functionResourceGroup>
+        <functionResourceGroup>my-azure-function-rg</functionResourceGroup>
         <functionAppServicePlanName>spring-function-service-plan</functionAppServicePlanName>
         <functionAppName>springcloud-azurefunction-v1</functionAppName>
         <functionAppRegion>westus</functionAppRegion>
